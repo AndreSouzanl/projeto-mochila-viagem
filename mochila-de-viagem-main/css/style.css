@@ -103,7 +103,12 @@ html {
 .lista {
     margin: 0;
     padding: 0;
+    display: block;
+    
+    
 }
+
+
 
 .item {
     list-style: none;
